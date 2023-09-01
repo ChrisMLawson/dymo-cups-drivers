@@ -16,5 +16,5 @@ automake
 
 ./configure
 
-make
+make -j `nproc`
 

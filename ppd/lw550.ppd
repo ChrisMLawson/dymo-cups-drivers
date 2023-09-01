@@ -217,6 +217,7 @@
 *PageSize w167h539/99019 Large Lever Arch: "<</PageSize[167 539]/ImagingBBox null/cupsInteger0 0>>setpagedevice"
 *PageSize w154h7680/Banner: "<</PageSize[154 7680]/ImagingBBox null/cupsMediaType 1/cupsInteger0 0>>setpagedevice"
 *PageSize w154h792/Continuous, Wide: "<</PageSize[154 792]/ImagingBBox null/cupsMediaType 1/cupsInteger0 0>>setpagedevice"
+*PageSize w72h252.1/Durable 1 in x 3-1/2 in: "<</PageSize[72 252]/ImagingBBox null/cupsInteger0 0>>setpagedevice"
 *CloseUI: *PageSize
 
 *OpenUI *PageRegion: PickOne
@@ -283,6 +284,7 @@
 *PageRegion w167h539/99019 Large Lever Arch: "<</PageSize[167 539]/ImagingBBox null/cupsInteger0 0>>setpagedevice"
 *PageRegion w154h7680/Banner: "<</PageSize[154 7680]/ImagingBBox null/cupsMediaType 1/cupsInteger0 0>>setpagedevice"
 *PageRegion w154h792/Continuous, Wide: "<</PageSize[154 792]/ImagingBBox null/cupsMediaType 1/cupsInteger0 0>>setpagedevice"
+*PageRegion w72h252.1/Durable 1 in x 3-1/2 in: "<</PageSize[72 252]/ImagingBBox null/cupsInteger0 0>>setpagedevice"
 *CloseUI: *PageRegion
 
 *DefaultImageableArea: w167h288
@@ -347,6 +349,7 @@
 *ImageableArea w167h539/99019 Large Lever Arch: "4.08 4.32 163.68 522.72"
 *ImageableArea w154h7680/Banner: "4.08 17.04 148.08 7663.92"
 *ImageableArea w154h792/Continuous, Wide: "4.32 4.32 150.24 775.68"
+*ImageableArea w72h252.1/Durable 1 in x 3-1/2 in: "4.32 4.32 69.12 234.96"
 
 *DefaultPaperDimension: w167h288
 *PaperDimension w154h64/11351 Jewelry Label: "153.60 63.12"
@@ -410,6 +413,7 @@
 *PaperDimension w167h539/99019 Large Lever Arch: "166.32 538.56"
 *PaperDimension w154h7680/Banner: "153.12 7680.00"
 *PaperDimension w154h792/Continuous, Wide: "153.12 792.00"
+*PaperDimension w72h252.1/Durable 1 in x 3-1/2 in: "71.28 251.04"
 
 *% Custom page size support
 *HWMargins:      0 0 0 0
