@@ -51,6 +51,12 @@ This repository contains an inofficial copy of Dymo's CUPS printer driver for Li
 * DYMO LabelWriter DUO Tape 128
 * DYMO LabelWriter SE450
 * DYMO LabelWriter Twin Turbo
+* DYMO LabelWriter 550
+* DYMO LabelWriter 550 Turbo
+* DYMO LabelWriter 5XL
+* DYMO LabelWriter 550 Pro
+* DYMO LabelWriter 550 Twin Pro
+* DYMO LabelWriter 5XL Pro
 
 *`usb_modeswitch` required (`usb_storage` kernel module loaded) when connected via USB
 
